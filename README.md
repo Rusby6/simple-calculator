@@ -1,36 +1,48 @@
 # 🧮 Calculadora Simple
 
-Calculadora funcional construida con HTML, CSS y JavaScript puro.
+Calculadora web básica desarrollada como proyecto de práctica para reforzar
+conceptos de **HTML, CSS y JavaScript puro**, sin frameworks.
 
 ## ✅ Características
-- Operaciones: suma, resta, multiplicación, división
-- Validación de errores (campos vacíos, división por cero)
+- Operaciones básicas: suma, resta, multiplicación y división
+- Validación de errores:
+  - Campos vacíos
+  - División por cero
 - Diseño responsivo y centrado
-- Efectos visuales en botones
-- Botón CE para limpiar todo
+- Efectos visuales en los botones
+- Botón **CE** para limpiar todos los campos
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías utilizadas
 - HTML5
 - CSS3
 - JavaScript (ES6)
 - Google Fonts (Audiowide)
 
 ## 📋 Uso
-1. Ingresa números en los dos campos
-2. Selecciona una operación (+, -, X, /)
-3. El resultado aparece automáticamente
-4. Usa CE para reiniciar
+1. Introduce números en los dos campos
+2. Selecciona una operación (+, -, ×, /)
+3. El resultado se muestra automáticamente
+4. Pulsa **CE** para reiniciar la calculadora
 
-## 📁 Archivos
-
+## 📁 Estructura del proyecto
+```text
 calculadora/
-- ├── index.html # Estructura principal
-- ├── styles.css # Estilos y diseño
-- ├── script.js # Lógica de operaciones
-- └── README.md # Documentación
+├── index.html   # Estructura principal
+├── styles.css   # Estilos y diseño
+├── script.js    # Lógica de operaciones
+└── README.md    # Documentación
+```
 
 ## 🔧 Instalación
 
-1. git clone https://github.com/tuusuario/calculadora-app
-2. cd calculadora-app
-3. Abre index.html en tu navegador
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/calculadora-app
+   ```
+
+2. Accede al directorio del proyecto:
+   ```bash
+   cd calculadora-app
+   ```
+
+3. Abre el archivo `index.html` en tu navegador.
