@@ -34,6 +34,3 @@ calculadora/
 1. git clone https://github.com/tuusuario/calculadora-app
 2. cd calculadora-app
 3. Abre index.html en tu navegador
-
-
-*Proyecto de práctica JavaScript*" > README.md
