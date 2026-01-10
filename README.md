@@ -37,7 +37,7 @@ simple-calculator/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/simple-calculator
+   git clone https://github.com/Rusby6/simple-calculator
    ```
 
 2. Accede al directorio del proyecto:
