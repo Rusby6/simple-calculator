@@ -37,12 +37,12 @@ calculadora/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/calculadora-app
+   git clone https://github.com/tuusuario/simple-calculator
    ```
 
 2. Accede al directorio del proyecto:
    ```bash
-   cd calculadora-app
+   cd simple-calculator
    ```
 
 3. Abre el archivo `index.html` en tu navegador.
