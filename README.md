@@ -26,7 +26,7 @@ conceptos de **HTML, CSS y JavaScript puro**, sin frameworks.
 
 ## 📁 Estructura del proyecto
 ```text
-calculadora/
+simple-calculator/
 ├── index.html   # Estructura principal
 ├── styles.css   # Estilos y diseño
 ├── script.js    # Lógica de operaciones
