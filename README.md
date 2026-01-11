@@ -8,7 +8,6 @@ conceptos de **HTML, CSS y JavaScript puro**, sin frameworks.
 - Validación de errores:
   - Campos vacíos
   - División por cero
-- Diseño responsivo y centrado
 - Efectos visuales en los botones
 - Botón **CE** para limpiar todos los campos
 
